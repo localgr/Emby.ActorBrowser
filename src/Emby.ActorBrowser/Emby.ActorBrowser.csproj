@@ -6,7 +6,7 @@
     <AssemblyName>Emby.ActorBrowser</AssemblyName>
     <RootNamespace>Emby.ActorBrowser</RootNamespace>
     <Version>0.1.15</Version>
-    <EmbySdkVersion Condition="'$(EmbySdkVersion)' == ''">4.9.1.90</EmbySdkVersion>
+    <EmbySdkVersion Condition="'$(EmbySdkVersion)' == ''">4.9.1.80</EmbySdkVersion>
   </PropertyGroup>
 
   <ItemGroup>
